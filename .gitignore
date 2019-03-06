@@ -1,0 +1,11 @@
+.env
+
+# OSX
+#
+.DS_Store
+
+hide/
+
+env/
+
+.vscode/
