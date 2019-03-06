@@ -79,4 +79,4 @@ click on the various endpoints:
 }
 ```
 
-You can perform all CRUD functions using the HTML form at the bottom of each page.
+You can perform all CRUD functions using the HTML form at the bottom of each page of the API.
